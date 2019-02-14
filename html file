@@ -1,0 +1,12 @@
+<html>
+<head><title>css</title>
+<style type="text/css">
+.redtxt{color:red;}
+.bluetxt{color:blue;}
+</style>
+</head>
+<body>
+<h1 class=redtxt>presidency university</h1>
+<p class=bluetxt> department of computer science</p>
+</body>
+</html>
