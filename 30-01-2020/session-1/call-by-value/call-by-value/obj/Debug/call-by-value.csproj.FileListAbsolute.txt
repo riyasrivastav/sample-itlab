@@ -1,0 +1,7 @@
+F:\bizruntimes\30-01-2020\session-1\call-by-value\call-by-value\bin\Debug\call-by-value.exe.config
+F:\bizruntimes\30-01-2020\session-1\call-by-value\call-by-value\bin\Debug\call-by-value.exe
+F:\bizruntimes\30-01-2020\session-1\call-by-value\call-by-value\bin\Debug\call-by-value.pdb
+F:\bizruntimes\30-01-2020\session-1\call-by-value\call-by-value\obj\Debug\call-by-value.csprojAssemblyReference.cache
+F:\bizruntimes\30-01-2020\session-1\call-by-value\call-by-value\obj\Debug\call-by-value.csproj.CoreCompileInputs.cache
+F:\bizruntimes\30-01-2020\session-1\call-by-value\call-by-value\obj\Debug\call-by-value.exe
+F:\bizruntimes\30-01-2020\session-1\call-by-value\call-by-value\obj\Debug\call-by-value.pdb

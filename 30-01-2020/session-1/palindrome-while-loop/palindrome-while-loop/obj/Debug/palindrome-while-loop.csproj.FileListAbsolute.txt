@@ -1,0 +1,7 @@
+F:\bizruntimes\30-01-2020\session-1\palindrome-while-loop\palindrome-while-loop\bin\Debug\palindrome-while-loop.exe.config
+F:\bizruntimes\30-01-2020\session-1\palindrome-while-loop\palindrome-while-loop\bin\Debug\palindrome-while-loop.exe
+F:\bizruntimes\30-01-2020\session-1\palindrome-while-loop\palindrome-while-loop\bin\Debug\palindrome-while-loop.pdb
+F:\bizruntimes\30-01-2020\session-1\palindrome-while-loop\palindrome-while-loop\obj\Debug\palindrome-while-loop.csprojAssemblyReference.cache
+F:\bizruntimes\30-01-2020\session-1\palindrome-while-loop\palindrome-while-loop\obj\Debug\palindrome-while-loop.csproj.CoreCompileInputs.cache
+F:\bizruntimes\30-01-2020\session-1\palindrome-while-loop\palindrome-while-loop\obj\Debug\palindrome-while-loop.exe
+F:\bizruntimes\30-01-2020\session-1\palindrome-while-loop\palindrome-while-loop\obj\Debug\palindrome-while-loop.pdb
